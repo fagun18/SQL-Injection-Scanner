@@ -46,4 +46,4 @@ Matlab scripts
 
 ## Disclaimer
 
-- This script is for educational purposes only. The author is not responsible for any damages caused by the use of this script. Use it at your own risk.
+- This script is for educational purposes only. I have not responsible for any damages caused by the use of this script. Use it at your own risk.
